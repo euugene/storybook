@@ -1,7 +1,7 @@
 # storybook
 Created for testing storybook possibilities
 
-Run storybook: 
+Run storybook on localhost: 
 1. Run 'npm install'.
 2. Run 'npm run storybook'.
 
